@@ -10,18 +10,10 @@ I love diving into complex problems and creating solutions that make a positive 
 
 Feel free to explore my [GitHub repositories](https://github.com/pysharora) to discover projects and code samples.
 
-## Technologies and Tools
-
-- 
-
 ## Connect with Me
 
 - LinkedIn: [Piyush Arora](https://www.linkedin.com/in/pysharora)
 - Email: arorapiyush.arora@gmail.com
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysharora&show_icons=true&count_private=true)
 
 ## Contributions and Collaboration
 
