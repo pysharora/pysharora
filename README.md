@@ -21,3 +21,6 @@ I'm open to collaborations and contributions. If you're interested in any of my 
 
 Thank you for visiting my GitHub profile. Stay curious and keep coding!
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/pysharora)
+
+
